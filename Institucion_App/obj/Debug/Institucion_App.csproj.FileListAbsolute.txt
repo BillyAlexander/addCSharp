@@ -4,3 +4,7 @@ c:\users\alex\documents\visual studio 2015\Projects\Institucion_App\Institucion_
 c:\users\alex\documents\visual studio 2015\Projects\Institucion_App\Institucion_App\obj\Debug\Institucion_App.csprojResolveAssemblyReference.cache
 c:\users\alex\documents\visual studio 2015\Projects\Institucion_App\Institucion_App\obj\Debug\Institucion_App.exe
 c:\users\alex\documents\visual studio 2015\Projects\Institucion_App\Institucion_App\obj\Debug\Institucion_App.pdb
+c:\users\alex\documents\visual studio 2015\Projects\Institucion_App\Institucion_App\bin\Debug\EntityFramework.dll
+c:\users\alex\documents\visual studio 2015\Projects\Institucion_App\Institucion_App\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\alex\documents\visual studio 2015\Projects\Institucion_App\Institucion_App\bin\Debug\EntityFramework.xml
+c:\users\alex\documents\visual studio 2015\Projects\Institucion_App\Institucion_App\bin\Debug\EntityFramework.SqlServer.xml
